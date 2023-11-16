@@ -25,7 +25,7 @@ Our flagship project, Basma is a mobile app designed to:
 
 - **Contribute to Our Projects**: Explore our repositories like 'basma-flutter' and 'basma-laravel' to contribute to our ongoing projects. Your input and expertise will be invaluable in developing tools that support our mission.
 
-- **Join Our Community**: Be a part of a growing network of professionals and companies dedicated to tech-driven social advocacy for Palestine. Share ideas, collaborate on projects, and be at the forefront of tech for social good. Join our [Facebook Group](https://www.facebook.com/groups/163209150211850) to connect and engage with the community.
+- **Join Our Community**: Be a part of a growing network of professionals and companies dedicated to tech-driven social advocacy for Palestine. Share ideas, collaborate on projects, and be at the forefront of tech for social good. Join our [WhatsApp Community](https://chat.whatsapp.com/E5JX1b8YQ2KHJTXpu8TIQ9) to connect and engage with like-minded individuals.
 
 - **Support and Advocate**: Help us spread the word about our mission. Whether it's through partnerships, sponsorships, or simply sharing our work within your networks, every bit of support counts.
 
