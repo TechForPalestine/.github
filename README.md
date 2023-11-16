@@ -10,10 +10,12 @@ We are committed to creating and supporting technological solutions that bring a
 
 ## Our Product: Basma (بصمة)
 
-Our flagship project, Basma is a mobile app designed to:
+Our flagship project, Basma, is a mobile app designed to:
 - Provide information about products and services related to the Palestinian situation.
 - Offer alternatives that support Palestinian causes or neutral entities.
 - Foster a global community engaged in the buycott movement.
+
+Find more details and contribute to our project on our [GitHub repository](https://github.com/TechForPalestine/Basma).
 
 ## Who We Welcome
 
