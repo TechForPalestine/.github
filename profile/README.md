@@ -1,34 +1,92 @@
-# Welcome to Tech For Palestine
+Tech for Palestine is an umbrella group for the disparate groups in tech working towards Palestinian 
+freedom. This is brand new and things are super fluid. 
 
-## Bridging Technology and Solidarity
+# Goals
 
-At Tech For Palestine, we are a dynamic and dedicated community of technology professionals and companies united by a common goal: leveraging technology to support and amplify the Palestinian cause. Our organization serves as a hub for innovation, collaboration, and advocacy, driven by the belief that technology can be a powerful tool for social change and justice.
+This is a place for the tech community to work together to help end the war on the people of Gaza, by 
+contributing in any way we can to have a permanent ceasefire.
 
-## Our Mission
+Our short-term goal is to normalize and enable tech folks to speak up for the people of Palestine.
 
-We are committed to creating and supporting technological solutions that bring awareness to the Palestinian situation, promote understanding, and actively contribute to the cause. Our work spans various areas, including software development, data analysis, digital education, and much more.
+# Organization
 
-## Our Product: Basma (بصمة)
+This is a very early stage project, and is for the moment being run by Paul Biggar, to bring together 
+all the different projects, volunteers, founders, engineers, investors, and activists who reached out 
+after his [I can't sleep](https://blog.paulbiggar.com/i-cant-sleep) blog post.
 
-Our flagship project, Basma, is a mobile app designed to:
-- Provide information about products and services related to the Palestinian situation.
-- Offer alternatives that support Palestinian causes or neutral entities.
-- Foster a global community engaged in the buycott movement.
+The founding team is engineers, founders, community organizers, and activists from the tech ecosystem.
 
-Find more details and contribute to our project on our [GitHub repository](https://github.com/TechForPalestine/Basma).
+We work in an invite-only discord, for obvious reasons.
 
-## Who We Welcome
+# Secrecy
 
-- **Individual Tech Professionals**: Whether you are a developer, designer, data scientist, or any other tech specialist, your skills and passion can make a significant difference. Join us to work on meaningful projects, network with like-minded professionals, and use your expertise for a noble cause.
-  
-- **Tech Companies**: We invite companies to partner with us in this endeavor. Your expertise, resources, and support can amplify our efforts and bring about substantial change. Collaborating with Tech For Palestine offers a unique opportunity to demonstrate corporate social responsibility and make a positive impact on a global scale.
+When contributing, consider whether you want to use your real account. While that would help normalize 
+things, it might also cause attempted cancellation by the other team. We are happy to work with semi- or
+fully-anonymous individuals.
 
-## Get Involved
+# How to help
 
-- **Contribute to Our Projects**: Explore our repositories like 'basma-flutter' and 'basma-laravel' to contribute to our ongoing projects. Your input and expertise will be invaluable in developing tools that support our mission.
+Contact: paul.biggar@gmail.com
 
-- **Join Our Community**: Be a part of a growing network of professionals and companies dedicated to tech-driven social advocacy for Palestine. Share ideas, collaborate on projects, and be at the forefront of tech for social good. Join our [WhatsApp Community](https://chat.whatsapp.com/E5JX1b8YQ2KHJTXpu8TIQ9) to connect and engage with like-minded individuals.
+We are a clearing house, that brings volunteers together, combined with a shared goal, and direction,
+advice and guidance.
 
-- **Support and Advocate**: Help us spread the word about our mission. Whether it's through partnerships, sponsorships, or simply sharing our work within your networks, every bit of support counts.
+If you are working on something, get in touch and you can meet volunteers who are eager to help.
 
-Together, we can leverage technology for a cause that resonates across borders and cultures. Join us in making an impact for Palestine.
+If you don't know what you want to work on, get in touch and tell us your job and skillset. We'll find
+you people to work with.
+
+We need engineers, designers, data scientists, marketers, community builders, and researchers.
+
+We also need people with experience owning and running projects (eg experienced founders, CEOs,
+PMs, etc).
+
+We also need people with deep understanding of various parts of tech, and with relationships within them,
+such as investors, founders, folks on the conference circuit, and open source maintainers.
+
+# Projects
+
+We do projects with the goal of normalizing Palestinian humanity within the tech community:
+- help tech people speak up for Palestine, esp about the genocide in Gaza
+- fight for a permanent ceasefire
+- support Palestinians within tech (diaspora, and within Palestine)
+- raise awareness of investors/companies who are part of the anti-Palestinian movement
+- bring support and work with investors and companies who are part of the pro-Palestinian movement
+- bring awareness to the humanity of the Palestinian people
+- activism to bring awareness to Israeli genocide and how tech is complicit
+
+## In progress
+
+- making a pro-ceasefire statement and advocating for VCs to sign
+  - talking points, 1-pager for founders and investors to approach others
+  - advocate for VCs to remove their support for Israel, given the genocide
+- boycott Israeli tech
+  - website providing alternatives
+
+## Starting
+- angel investment who can help palestinians do startups
+    - advisors, incubators, funding, mentorship
+- investment funding path for founders blacklisted for their support of Palestine
+- help for founders and investors to speak up for Palestine
+  - blog review, signal boosting
+- button for repo (maybe work with https://github.com/Ademking/Support-Palestine)
+
+## Up next
+
+- conference talk you can give about Gaza/Palestine (template, etc)
+- list of companies who are pro-palestinian freedom
+- banner for website (maybe work with https://github.com/zeeshanadnan/free-palestine-banner)
+- one pager for employees to express discomfort with management silence on the genocide
+- free tech for palestine
+  - tech companies give free stuff to palestinian startups or companies
+- provide support and volunteers for existing projects like:
+  - genocide.vc
+  - twitter.com/stoparabhate
+  - https://github.com/monzim/free-palestine
+
+
+# Code of conduct
+
+Coming soon. Usual stuff. We have a zero tolerance policy for anti-semitism or advocacy of
+violence: ambiguous statements should be explained or restated, unambiguous statements result 
+in an immediate ban, regardless of role.
