@@ -35,7 +35,8 @@ emails and accounts only when speaking with us) on GitHub or in our Discord.
 
 # Projects
 
-We do projects with the goal of normalizing Palestinian humanity within the tech community:
+We do projects with the goal of normalizing Palestinian humanity within the 
+tech community:
 
 - help tech people speak up for Palestine, especially about the genocide in Gaza
 - fight for a permanent ceasefire
@@ -56,37 +57,50 @@ projects in the ecosystem.
 As we are brand new, our process of connecting people is a little haphazard and
 broken - we're working on it.
 
-### Helping existing projects
+## Volunteering your talents
 
-- In our discord, look through the #projects and see if anything catches your fancy
-- See if any of the [projects needing
-  volunteers](https://github.com/orgs/TechForPalestine/discussions/categories/volunteers)
-  suit you
-- Look through our
-  [repositories](https://github.com/orgs/TechForPalestine/repositories), read
-  their READMEs and look through their issues.
+There are a few places in our discord where you can volunteer your talents. Each 
+of these are categories (groups of channels) of our Discord, currently named:
 
-### Volunteering your talents
+### Official TFP projects
 
-- Join our [discord](https://techforpalestine.org/discord-invite) and introduce
-  yourself in a #volunteer channel. We'll try and connect you to someone.
-- Post to the [weekly volunteer thread in our
-  forum](https://github.com/orgs/TechForPalestine/discussions/categories/volunteers)
+These are official projects that have joined the collective, and usually have
+[GitHub repos](https://github.com/orgs/TechForPalestine/repositories). 
 
-### If you have an existing project
+### Community Experiments
 
-If you have an existing project, feel free to join our community in whatever
-capacity is convenient. You can [tell people about
-it](https://github.com/orgs/TechForPalestine/discussions/categories/volunteers)
-and see if they'd like to work on it with you.
+When one or more members of the community starts something, we will give them a 
+channel to conduct the experiment, and maybe a GitHub repo. These may later become 
+official projects, die from lack of interest, learn that it will not be successful, 
+or may choose not to become an official project and move elsewhere.
 
-You can keep your project external if you wish, or move it under our umbrella
-and/or github org if you prefer (eg if you are worried about privacy, for reach, or just
-prefer that for whatever reason).
+### External Projects
 
-In our discord, you can have a channel for your project, either as the main
-project channel, or just to liase with you from our community if you have a
-different community around your project.
+Many people work in the broader ecosystem, and we suggest that those projects have 
+a channel in our discord where they can recruit technical help, liase with the community,
+etc. They will occasionally post their needs, or you can contact them there and see how 
+you can help.
+
+## Joining Tech For Palestine with a project
+
+If you have an existing project and would like to become one of the collective, we're
+recruiting. In particular, this is suitable for projects which help with our goal of
+changing how the tech industry perceives Palestinian people. This is pretty broad, 
+however, and if you can articulate a good thesis for how it fits, that's fine.
+
+Official projects are run as official projects in the Discord, and get direct resources
+(such as PM support), cloud hosting, as well as official URLs, branding, and marketing 
+support. It is also good for people worried about their reputation or job - running it 
+as a TFP project can help distance you and helps reduce the risk.
+
+Note that we don't require you become part of TFP to benefit from the community. You can
+ask for a liason channel in our Discord to help you stay in touch with our community, and
+should feel free to recruit technical talent from our discord. We can help connect you to
+people you need. We're also happy to market with you if it matches our goals (for example,
+we're happy to tweet or retweet projects which match, do collaborations, etc).
+
+To propose adding a project, post in our 
+[project channel](https://discord.com/channels/1186702814341234740/1192871299509391512).
 
 ### Suggest/work on a new project
 
@@ -95,12 +109,7 @@ we are a broad community and anything that fits under our goals is welcome as
 long as it abides by our [Code of
 Conduct](https://github.com/TechForPalestine/code-of-conduct).
 
-In fact, we have a [list of projects](https://github.com/orgs/TechForPalestine/discussions/categories/ideas) we wish someone would start.
+Project proposals and ideas can be posted in our [project forum](https://discord.com/channels/1186702814341234740/1192871299509391512) in the discord. These can become Community Experiments if people wish, and can become Official TFP projects as well.
 
 If you start one, we can add a channel in our discord and work with you to get
 the resources you need (usually volunteers).
-
-If you have ideas you'd like to get collaborators on, post them in the
-[Ideas forum](https://github.com/orgs/TechForPalestine/discussions/categories/ideas)
-forum and ask for volunteers in the
-[Volunteers forum](https://github.com/orgs/TechForPalestine/discussions/categories/volunteers).
